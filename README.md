@@ -35,10 +35,10 @@
 + RegMean
 + DER
 + EWC
-+ L2P
-+ CODA-Prompt
++ LWF
++ DERPP
++ FEDPROTO
 + TARGET
-+ PILoRA
 + LoRM
 + Many more to add...
 
